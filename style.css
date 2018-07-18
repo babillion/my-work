@@ -1,0 +1,21 @@
+.left-box {
+background-color: #1da1f2; height: 100vh; }
+
+.main-list{ 
+padding:35% 15%
+}
+
+.main-list ul li {
+color:white;
+padding-bottom: 15%;
+font-weight: 600;
+list-style:none;
+font-size: 120%;
+}
+
+.main-list i {
+font-size: 180%;()
+padding-right: 5%;
+font-display: wide;
+
+}
